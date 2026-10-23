@@ -5,7 +5,6 @@
 ## 🌐 Live Demo
 
 🚀 **Try the AI Teacher Chatbot here:**
-🔗 **Live Application:** https://ai-teacher-chatbot-live.streamlit.app/
 
 
 ---
@@ -178,12 +177,8 @@ This project is intended for educational purposes.
 
 ## 👨‍💻 Author
 
-**Shambhav Kumar**
+**Gunshika Arora**
 
-GitHub: https://github.com/YOUR_USERNAME
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
----
 
 ⭐ If you found this project helpful, consider giving it a star on GitHub!
