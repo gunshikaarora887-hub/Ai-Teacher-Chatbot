@@ -82,7 +82,7 @@ Built using
 
     st.markdown("---")
 
-    st.caption("❤️ Developed by Shambhav Kumar")
+    st.caption("❤️ Developed by Gunshika Arora")
 
 # ----------------------------------------------------
 # HERO SECTION
